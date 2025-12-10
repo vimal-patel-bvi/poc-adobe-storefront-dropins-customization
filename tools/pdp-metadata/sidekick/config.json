@@ -1,0 +1,5 @@
+{
+  "project": "poc-adobe-storefront-dropins-customization",
+  "editUrlLabel": "Document Authoring",
+  "editUrlPattern": "https://da.live/edit#/vimal-patel-bvi/poc-adobe-storefront-dropins-customization{{pathname}}"
+}
