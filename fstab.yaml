@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/vimal-patel-bvi/poc-adobe-storefront-dropins-customization/
+    type: markup
+
+folders:
+  /products/: /products/default
